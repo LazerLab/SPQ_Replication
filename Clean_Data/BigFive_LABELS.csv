@@ -1,0 +1,49 @@
+spss_var,spss_label,r_var,reverse
+UID,ID,testID,0
+BFI_1,Is talkative,E_talkative,0
+BFI_2, Tends to find fault with others,A_fault,1
+BFI_3, Does a thorough job,C_thorough,0
+BFI_4," Is depressed, blue",N_depressed,0
+BFI_5," Is original, comes up with new ideas",O_original,0
+BFI_6, Is reserved,E_reserved,1
+BFI_7, Is helpful and unselfish with others,A_helpful,0
+BFI_8, Can be somewhat careless,C_careless,1
+BFI_9," Is relaxed, handles stress well.",N_relaxed,1
+BFI_10, Is curious about many different things,O_curious,0
+BFI_11, Is full of energy,E_energetic,0
+BFI_12, Starts quarrels with others,A_quarrelsome,1
+BFI_13, Is a reliable worker,C_reliable,0
+BFI_14, Can be tense,N_tense,0
+BFI_15," Is ingenious, a deep thinker",O_ingenious,0
+BFI_16, Generates a lot of enthusiasm,E_enthusiastic,0
+BFI_17, Has a forgiving nature,A_forgiving,0
+BFI_18, Tends to be disorganized,C_disorganized,1
+BFI_19, Worries a lot,N_worrisome,0
+BFI_20, Has an active imagination,O_imaginative,0
+BFI_21, Tends to be quiet,E_quiet,1
+BFI_22, Is generally trusting,A_trusting,0
+BFI_23, Tends to be lazy,C_lazy,1
+BFI_24," Is emotionally stable, not easily upset",N_stable,1
+BFI_25, Is inventive,O_inventive,0
+BFI_26, Has an assertive personality,E_assertive,0
+BFI_27, Can be cold and aloof,A_coldness,1
+BFI_28, Perseveres until the task is finished,C_perseverance,0
+BFI_29, Can be moody,N_moody,0
+BFI_30," Values artistic, aesthetic experiences",O_artistic,0
+BFI_31," Is sometimes shy, inhibited",E_shy,1
+BFI_32, Is considerate and kind to almost everyone,A_considerate,0
+BFI_33, Does things efficiently,C_efficient,0
+BFI_34, Remains calm in tense situations,N_calm,1
+BFI_35, Prefers work that is routine,O_routine,1
+BFI_36," Is outgoing, sociable",E_outgoing,0
+BFI_37, Is sometimes rude to others,A_rude,1
+BFI_38, Makes plans and follows through with them,C_planning,0
+BFI_39, Gets nervous easily,N_nervous,0
+BFI_40," Likes to reflect, play with ideas",O_reflective,0
+BFI_41, Has few artistic interests,O_unartistic,1
+BFI_42, Likes to cooperate with others,A_cooperative,0
+BFI_43, Is easily distracted,C_distracted,1
+BFI_44," Is sophisticated in art, music, or literature",O_sophisticated,0
+timeSpent,time spent,timeSpent,0
+uid,uid,uid,0
+ineligible,ineligible,ineligible,0
